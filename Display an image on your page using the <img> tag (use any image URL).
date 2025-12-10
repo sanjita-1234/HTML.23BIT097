@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <h1>My Heading</h1>
+    <p>This is a paragraph added to the basic HTML page.</p>
+
+    <ol>
+        <li>Inception</li>
+        <li>The Matrix</li>
+        <li>Interstellar</li>
+    </ol>
+
+    <ul>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Eggs</li>
+        <li>Apples</li>
+        <li>Rice</li>
+    </ul>
+
+    <img src="https://via.placeholder.com/300" alt="Placeholder Image">
+</body>
+</html>
