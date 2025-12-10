@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head Section: Contains metadata and the page title -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <h1>My Heading</h1>
+    <p>This is a paragraph added to the basic HTML page.</p>
+
+    <!-- Emphasis Example Paragraph -->
+    <p>
+        This is an example paragraph with <em>emphasized text</em> and 
+        some <strong>strongly emphasized text</strong>.
+    </p>
+
+    <!-- Divider Section -->
+    <hr>
+
+    <!-- Line Break Example -->
+    <p>
+        This text appears above the line break.<br>
+        And this appears right after the break.
+    </p>
+
+    <!-- Ordered List: Favorite Movies -->
+    <ol>
+        <li>Inception</li>
+        <li>The Matrix</li>
+        <li>Interstellar</li>
+    </ol>
+
+    <!-- Unordered List: Grocery Items -->
+    <ul>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Eggs</li>
+        <li>Apples</li>
+        <li>Rice</li>
+    </ul>
+
+    <!-- Image Section -->
+    <img src="https://via.placeholder.com/300" alt="Placeholder Image">
+
+    <!-- Hyperlink Section -->
+    <p>
+        Visit my favorite website:
+        <a href="https://www.example.com" target="_blank">Click here</a>
+    </p>
+
+    <!-- Table Section -->
+    <h2>Sample Table</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>24</td>
+            <td>New York</td>
+        </tr>
+        <tr>
+            <td>Bob</td>
+            <td>30</td>
+            <td>Chicago</td>
+        </tr>
+    </table>
+
+</body>
+</html>
